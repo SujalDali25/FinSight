@@ -1,0 +1,301 @@
+{
+  "2016-Aug-11-NVDA.txt": {
+    "total_chunks": 36,
+    "sentiment_counts": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 35
+    },
+    "sentiment_percentages": {
+      "positive": 2.7777777777777777,
+      "negative": 0.0,
+      "neutral": 97.22222222222221
+    },
+    "weighted_sentiment_score": 0.012869764385502691,
+    "dominant_sentiment": "neutral"
+  },
+  "2016-Feb-17-NVDA.txt": {
+    "total_chunks": 32,
+    "sentiment_counts": {
+      "positive": 5,
+      "negative": 0,
+      "neutral": 27
+    },
+    "sentiment_percentages": {
+      "positive": 15.625,
+      "negative": 0.0,
+      "neutral": 84.375
+    },
+    "weighted_sentiment_score": 0.08926189372866522,
+    "dominant_sentiment": "neutral"
+  },
+  "2016-May-12-NVDA.txt": {
+    "total_chunks": 28,
+    "sentiment_counts": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 24
+    },
+    "sentiment_percentages": {
+      "positive": 14.285714285714285,
+      "negative": 0.0,
+      "neutral": 85.71428571428571
+    },
+    "weighted_sentiment_score": 0.07586116841639459,
+    "dominant_sentiment": "neutral"
+  },
+  "2016-Nov-10-NVDA.txt": {
+    "total_chunks": 27,
+    "sentiment_counts": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 23
+    },
+    "sentiment_percentages": {
+      "positive": 14.814814814814813,
+      "negative": 0.0,
+      "neutral": 85.18518518518519
+    },
+    "weighted_sentiment_score": 0.08483475243304323,
+    "dominant_sentiment": "neutral"
+  },
+  "2017-Aug-10-NVDA.txt": {
+    "total_chunks": 29,
+    "sentiment_counts": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 25
+    },
+    "sentiment_percentages": {
+      "positive": 13.793103448275861,
+      "negative": 0.0,
+      "neutral": 86.20689655172413
+    },
+    "weighted_sentiment_score": 0.057852162306816904,
+    "dominant_sentiment": "neutral"
+  },
+  "2017-Feb-09-NVDA.txt": {
+    "total_chunks": 26,
+    "sentiment_counts": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 23
+    },
+    "sentiment_percentages": {
+      "positive": 11.538461538461538,
+      "negative": 0.0,
+      "neutral": 88.46153846153845
+    },
+    "weighted_sentiment_score": 0.05722643203033263,
+    "dominant_sentiment": "neutral"
+  },
+  "2017-May-09-NVDA.txt": {
+    "total_chunks": 27,
+    "sentiment_counts": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 23
+    },
+    "sentiment_percentages": {
+      "positive": 14.814814814814813,
+      "negative": 0.0,
+      "neutral": 85.18518518518519
+    },
+    "weighted_sentiment_score": 0.08700821976897109,
+    "dominant_sentiment": "neutral"
+  },
+  "2017-Nov-09-NVDA.txt": {
+    "total_chunks": 27,
+    "sentiment_counts": {
+      "positive": 5,
+      "negative": 0,
+      "neutral": 22
+    },
+    "sentiment_percentages": {
+      "positive": 18.51851851851852,
+      "negative": 0.0,
+      "neutral": 81.48148148148148
+    },
+    "weighted_sentiment_score": 0.12720402362998162,
+    "dominant_sentiment": "neutral"
+  },
+  "2018-Aug-16-NVDA.txt": {
+    "total_chunks": 27,
+    "sentiment_counts": {
+      "positive": 5,
+      "negative": 1,
+      "neutral": 21
+    },
+    "sentiment_percentages": {
+      "positive": 18.51851851851852,
+      "negative": 3.7037037037037033,
+      "neutral": 77.77777777777779
+    },
+    "weighted_sentiment_score": 0.05856456274743283,
+    "dominant_sentiment": "neutral"
+  },
+  "2018-Feb-08-NVDA.txt": {
+    "total_chunks": 27,
+    "sentiment_counts": {
+      "positive": 5,
+      "negative": 0,
+      "neutral": 22
+    },
+    "sentiment_percentages": {
+      "positive": 18.51851851851852,
+      "negative": 0.0,
+      "neutral": 81.48148148148148
+    },
+    "weighted_sentiment_score": 0.11481539984702283,
+    "dominant_sentiment": "neutral"
+  },
+  "2018-May-10-NVDA.txt": {
+    "total_chunks": 29,
+    "sentiment_counts": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 26
+    },
+    "sentiment_percentages": {
+      "positive": 10.344827586206897,
+      "negative": 0.0,
+      "neutral": 89.65517241379311
+    },
+    "weighted_sentiment_score": 0.08144226742003136,
+    "dominant_sentiment": "neutral"
+  },
+  "2018-Nov-15-NVDA.txt": {
+    "total_chunks": 28,
+    "sentiment_counts": {
+      "positive": 4,
+      "negative": 2,
+      "neutral": 22
+    },
+    "sentiment_percentages": {
+      "positive": 14.285714285714285,
+      "negative": 7.142857142857142,
+      "neutral": 78.57142857142857
+    },
+    "weighted_sentiment_score": 0.014549880138898099,
+    "dominant_sentiment": "neutral"
+  },
+  "2019-Aug-15-NVDA.txt": {
+    "total_chunks": 26,
+    "sentiment_counts": {
+      "positive": 6,
+      "negative": 1,
+      "neutral": 19
+    },
+    "sentiment_percentages": {
+      "positive": 23.076923076923077,
+      "negative": 3.8461538461538463,
+      "neutral": 73.07692307692307
+    },
+    "weighted_sentiment_score": 0.08050209428175889,
+    "dominant_sentiment": "neutral"
+  },
+  "2019-Feb-14-NVDA.txt": {
+    "total_chunks": 29,
+    "sentiment_counts": {
+      "positive": 3,
+      "negative": 2,
+      "neutral": 24
+    },
+    "sentiment_percentages": {
+      "positive": 10.344827586206897,
+      "negative": 6.896551724137931,
+      "neutral": 82.75862068965517
+    },
+    "weighted_sentiment_score": 0.007139032987719429,
+    "dominant_sentiment": "neutral"
+  },
+  "2019-May-16-NVDA.txt": {
+    "total_chunks": 29,
+    "sentiment_counts": {
+      "positive": 3,
+      "negative": 4,
+      "neutral": 22
+    },
+    "sentiment_percentages": {
+      "positive": 10.344827586206897,
+      "negative": 13.793103448275861,
+      "neutral": 75.86206896551724
+    },
+    "weighted_sentiment_score": -0.007124041207798713,
+    "dominant_sentiment": "neutral"
+  },
+  "2019-Nov-14-NVDA.txt": {
+    "total_chunks": 26,
+    "sentiment_counts": {
+      "positive": 4,
+      "negative": 2,
+      "neutral": 20
+    },
+    "sentiment_percentages": {
+      "positive": 15.384615384615385,
+      "negative": 7.6923076923076925,
+      "neutral": 76.92307692307693
+    },
+    "weighted_sentiment_score": 0.012342154517136751,
+    "dominant_sentiment": "neutral"
+  },
+  "2020-Aug-19-NVDA.txt": {
+    "total_chunks": 26,
+    "sentiment_counts": {
+      "positive": 5,
+      "negative": 2,
+      "neutral": 19
+    },
+    "sentiment_percentages": {
+      "positive": 19.230769230769234,
+      "negative": 7.6923076923076925,
+      "neutral": 73.07692307692307
+    },
+    "weighted_sentiment_score": 0.05021253804622256,
+    "dominant_sentiment": "neutral"
+  },
+  "2020-Feb-13-NVDA.txt": {
+    "total_chunks": 27,
+    "sentiment_counts": {
+      "positive": 6,
+      "negative": 0,
+      "neutral": 21
+    },
+    "sentiment_percentages": {
+      "positive": 22.22222222222222,
+      "negative": 0.0,
+      "neutral": 77.77777777777779
+    },
+    "weighted_sentiment_score": 0.13226708375989416,
+    "dominant_sentiment": "neutral"
+  },
+  "2020-May-21-NVDA.txt": {
+    "total_chunks": 41,
+    "sentiment_counts": {
+      "positive": 8,
+      "negative": 1,
+      "neutral": 32
+    },
+    "sentiment_percentages": {
+      "positive": 19.51219512195122,
+      "negative": 2.4390243902439024,
+      "neutral": 78.04878048780488
+    },
+    "weighted_sentiment_score": 0.10621150155559629,
+    "dominant_sentiment": "neutral"
+  },
+  "global": {
+    "total_chunks": 547,
+    "sentiment_counts": {
+      "positive": 82,
+      "negative": 15,
+      "neutral": 450
+    },
+    "sentiment_percentages": {
+      "positive": 14.990859232175502,
+      "negative": 2.742230347349177,
+      "neutral": 82.26691042047533
+    },
+    "dominant_sentiment": "neutral"
+  }
+}
